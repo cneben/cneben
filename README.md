@@ -1,4 +1,4 @@
-**CTO @ [DeliaStrat](https://www.destrat.io)**
+**CTO @ [DeliaStrat](https://www.destrat.io)** 🪖, maintainer of [QuickQanava](https://github.com/cneben/QuickQanava) 🔗 graph visualization library.
 
 *Confirmed:*
 
